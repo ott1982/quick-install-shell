@@ -12,7 +12,7 @@ Shellscripts to be executed from your host with GitHub repository source code.
 Install docker:
 
 ```sh
-curl https://raw.githubusercontent.com/ott1982/super-shellscripts/master/install-docker.sh | bash
+curl https://raw.githubusercontent.com/ott1982/super-shellscripts/master/install-docker.sh `whoami` | sudo bash
 ```
 
 Install docker-compose:
