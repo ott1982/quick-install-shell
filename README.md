@@ -38,3 +38,9 @@ Create SSH pair keys:
 ```sh
 curl https://raw.githubusercontent.com/ott1982/super-shellscripts/master/ssh-keys.sh | bash
 ```
+
+Install basic packages:
+
+```sh
+curl https://raw.githubusercontent.com/ott1982/super-shellscripts/master/basics.sh | bash
+```
